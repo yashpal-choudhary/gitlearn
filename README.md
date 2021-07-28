@@ -1,4 +1,4 @@
-# gitlearn
+# Gitlearn
 
 ## Problem statement
 
@@ -14,9 +14,9 @@
 │   ├── task1.py            --------------------> Solution of problem statement 1  
 │   ├── task2.py            --------------------> Solution of problem statement 2 
 │   ├── task3.py            --------------------> Solution of problem statement 3 
-│   ├── test_task1.py       --------------------> Unit Test for problem statement  
-│   ├── test_task2.py       --------------------> Unit Test for problem statement  
-│   └── test_task3.py       --------------------> Unit Test for problem statement  
+│   ├── test_task1.py       --------------------> Unit Test for problem statement 1 
+│   ├── test_task2.py       --------------------> Unit Test for problem statement 2 
+│   └── test_task3.py       --------------------> Unit Test for problem statement 3 
 ├── solutions.clj           --------------------> Solution for all problem statement  
 └── tests.clj               --------------------> Unit Test for all problem statement  
 ```
@@ -28,5 +28,5 @@
 
 ## Contributors
 
-- Yashpal Choudhary
-- Hritik Jaiswal
+- [Yashpal Choudhary](https://github.com/yashpal-choudhary)
+- [Hritik Jaiswal](https://github.com/hritik5102)
