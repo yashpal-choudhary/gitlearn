@@ -1,4 +1,4 @@
-# gitlearn
+# Gitlearn
 
 ## Problem statement
 
@@ -28,5 +28,5 @@
 
 ## Contributors
 
-- Yashpal Choudhary
-- Hritik Jaiswal
+- [Yashpal Choudhary](https://github.com/yashpal-choudhary)
+- [Hritik Jaiswal](https://github.com/hritik5102)
